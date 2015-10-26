@@ -1,3 +1,6 @@
+/*
+Author: Joe Yau in Hong Kong Baptist University
+*/
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
